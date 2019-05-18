@@ -1,0 +1,25 @@
+{
+  "name": "turtlejs",
+  "version": "1.0.0",
+  "description": "Skeleton and base Application Express JS and Sequelize",
+  "main": "index.js",
+  "bin": {
+    "turtlejs": "index.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javierB95/TurtleJS.git"
+  },
+  "author": "Javier Barrientos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javierB95/TurtleJS/issues"
+  },
+  "homepage": "https://github.com/javierB95/TurtleJS#readme"
+}
